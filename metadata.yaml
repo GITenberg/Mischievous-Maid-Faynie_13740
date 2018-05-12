@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5201
     wikipedia: http://en.wikipedia.org/wiki/Laura_Jean_Libbey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13740#Mischievous-Maid-Faynie
 gutenberg_issued: '2004-10-13'
 gutenberg_type: Text
 identifiers:
